@@ -4,15 +4,15 @@ The aim of the project was to analyse the data and generate insights to help Net
 shows/movies to produce and how to grow the business.
 <br>
 <br>
-**Overview of Netflix:**
-<br>
+<h4>Overview of Netflix:</h4>
+
 Netflix is one of the most popular media and video streaming platforms. They
 have over 8000 movies or tv shows available on their platform, as of mid-2021,
 they have over 200M Subscribers globally.
 <br>
 <br>
-**Overview of Data:**
-<br>
+
+<h4>Overview of Data:</h4>
 ➢ The data given is of all movies and TV shows released from 1925 to
 2021, along with when these shows were launched on NETFLIX and the
 metadata of these movies like director, cast, genre, country, rating etc.
