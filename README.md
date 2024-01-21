@@ -1,6 +1,6 @@
 # Netflix-Case-Study
 <br>
-The aim of the project was to analyse the data and generate insights to help Netflix decide which type of
+The aim of the project was to analyze the data and generate insights to help Netflix decide which type of
 shows/movies to produce and how to grow the business.
 <br>
 <br>
